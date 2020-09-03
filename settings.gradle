@@ -1,0 +1,2 @@
+rootProject.name='suara1'
+include ':app'
